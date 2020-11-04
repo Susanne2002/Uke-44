@@ -14,3 +14,13 @@ ol li {
   width: 300px;
 }
 
+uo li {
+  background-color: #d9853b;
+  padding: 5px;
+  margin: 1px;
+  width: 210px;
+  border-radius: 5px; /* avrunder kanter */
+  list-style-type: none; /* tar bort kulepunkter/nummering */
+}
+  
+
