@@ -6,3 +6,11 @@ padding: 5px;
 border: 1px solid #000000;
 margin: 5px;
 }
+
+ol li {
+  background-color: #74afad;
+  padding: 5px;
+  margin: 3px;
+  width: 300px;
+}
+
