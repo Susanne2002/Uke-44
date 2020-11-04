@@ -1,5 +1,8 @@
 div {
 background-color: #e0e0e0;
 color: #bfc9ca;
-font-family:"Century Gothic";
+width:200px;
+padding: 5px;
+border: 1px solid #000000;
+margin: 5px;
 }
