@@ -22,5 +22,12 @@ ul li {
   border-radius: 5px; /* avrunder kanter */
   list-style-type: none; /* tar bort kulepunkter/nummering */
 }
+
+.nystil li {
+  background-color: #558c89;
+  Padding: 10px;
+  margin:4px;
+  width: 160px;
+}
   
 
